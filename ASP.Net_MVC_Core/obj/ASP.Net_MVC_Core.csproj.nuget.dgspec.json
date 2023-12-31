@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj": {}
+    "G:\\B2_QuangCongThuyTien\\ASP.NET_MVC_CORE\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj": {}
   },
   "projects": {
-    "G:\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj": {
+    "G:\\B2_QuangCongThuyTien\\ASP.NET_MVC_CORE\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj",
+        "projectUniqueName": "G:\\B2_QuangCongThuyTien\\ASP.NET_MVC_CORE\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj",
         "projectName": "ASP.Net_MVC_Core",
-        "projectPath": "G:\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj",
+        "projectPath": "G:\\B2_QuangCongThuyTien\\ASP.NET_MVC_CORE\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj",
         "packagesPath": "C:\\Users\\SinhVien\\.nuget\\packages\\",
-        "outputPath": "G:\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core\\obj\\",
+        "outputPath": "G:\\B2_QuangCongThuyTien\\ASP.NET_MVC_CORE\\ASP.Net_MVC_Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SinhVien\\AppData\\Roaming\\NuGet\\NuGet.Config",
